@@ -1,0 +1,27 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+.boxItem {
+  width: 100%;
+  height: 20vh;
+  align-items: center;
+  background-color: rgb(31, 106, 106);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: rgb(204, 238, 227);
+}
+
+.btn {
+  background-color: rgb(26, 26, 217);
+  color: white;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5 px 5px;
+}
